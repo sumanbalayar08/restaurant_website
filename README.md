@@ -32,7 +32,7 @@ Welcome to my awesome project. Here are some screenshots to give you a glimpse o
 
 This is the link to a live demo of this project (if applicable). This is hosted in netlify platform.
 
-[Live Demo](https://newsletterco.netlify.app)
+[Live Demo](https://restroweb123.netlify.app/)
 
 ## Installation
 
@@ -40,10 +40,10 @@ Here is the detailed process of how you can install this design in your machine.
 
 ```bash
 # Clone the repository
-git clone https://github.com/sumanbalayar08/newsletter.git
+git clone https://github.com/sumanbalayar08/restaurant_website.git
 
 # Navigate to the project directory
-cd newsletter
+cd restaurant_website
 
 # Install dependencies
 npm install
